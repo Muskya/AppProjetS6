@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/elements.csv</name>
+			<type>1</type>
+			<location>C:/Users/ThéoRebbouh/Desktop/ProjetProgFeuillade/Core/elements.csv</location>
+		</link>
+	</linkedResources>
 </projectDescription>
