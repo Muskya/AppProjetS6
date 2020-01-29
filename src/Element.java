@@ -11,6 +11,7 @@ public class Element {
 		this.unite = unite;
 	}
 	
+	
 	public Element(String code, String nom, String unite, int quantite, int demande, double prixAchat, double prixVente) {
 		this.code = code;
 		this.nom = nom;
