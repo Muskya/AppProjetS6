@@ -1,6 +1,6 @@
 
 public class ProgrammeProd {
-	private ArrayList<Chaine> chainesUtil;
+	//private ArrayList<Chaine> chainesUtil;
 	private double indicValeur;
 	private double indicCommande;
 

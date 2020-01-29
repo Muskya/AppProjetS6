@@ -1,6 +1,4 @@
 import java.io.IOException;
-import com.opencsv.CSVReader;
-
 
 public class Element {
 	private String code, nom, unite;

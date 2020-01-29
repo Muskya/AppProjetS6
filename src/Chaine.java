@@ -7,8 +7,8 @@ public class Chaine {
 	private Element sortie;
 	private double temps;
 	private int nivActivite;
-	private ArrayList<Personnel> personnelQualifie;
-	private ArrayList<Personnel> personnelNonQualifie;
+	//private ArrayList<Personnel> personnelQualifie;
+	//private ArrayList<Personnel> personnelNonQualifie;
 
 	public Chaine(String code, String nomChaine, Element sortie,double temps) {
 		this.code=code;
