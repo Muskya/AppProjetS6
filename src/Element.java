@@ -22,6 +22,14 @@ public class Element {
 		return nom;
 	}
 
+	public String getUnite() {
+		return unite;
+	}
+
+	public void setUnite(String unite) {
+		this.unite = unite;
+	}
+
 	public void setNom(String nom) {
 		this.nom = nom;
 	}

@@ -9,7 +9,7 @@ public class ProgrammeProd {
 	 * Constructeur de la classe ProgrammeProd
 	 */
 	public ProgrammeProd () {
-		chainesUtil = new ArrayList<Chaine>();
+		chainesUtil = new ArrayList<Chaine>(); //La liste des chaînes utilisées pour le programme de prod
 		
 		this.indicValeur=0;
 		this.indicCommande=0;
@@ -21,7 +21,7 @@ public class ProgrammeProd {
 	public void CreerProgramme() {
 		System.out.println("---Création d'un programme de production---");
 		//Scanner récupérant les chaines que souhaite utiliser l'utilisateur pour le programme
-		//Récupération depuis l'interface graphique si il y a
+		//ou récupération depuis la saisie dans l'interfacae graphique
 	}
 	
 }
